@@ -1,4 +1,4 @@
- ## 🎵Persian Music Player
+##🎵Persian Music Player
 
 A simple and lightweight music player with the ability to play Persian songs (example: Yas)
 ✨ Features
@@ -13,7 +13,7 @@ Ability to search 10 seconds forward/back
 
 Simple and responsive user interface
 
-🛠️ Technologies used
+##🛠️ Technologies used
 
 HTML5 Audio API
 
@@ -23,7 +23,7 @@ Font Awesome for icons
 
 Simple CSS for styling
 
-🎧 Default playlist
+##🎧 Default playlist
 
 Cord to smooth line - Yas
 
